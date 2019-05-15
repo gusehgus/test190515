@@ -7,7 +7,7 @@ public class tset {
 
 		System.out.println("Çï·Î ");
 	int asd;
-	
+	int Teasqvdjioweqijfewiorvpojireijerfbvrgbnlbrigi;
 	}
 
 }
