@@ -7,7 +7,6 @@ public class tset {
 
 		System.out.println("Çï·Î ");
 	int asd;
-	String qodoa;
 	
 	}
 
